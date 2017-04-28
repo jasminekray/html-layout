@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+}
+
+.col-1 {
+  height: 100vh;
+  width: 33.3%;
+  background-color: #4a90e2;
+  float: left;
+}
+
+.col-2{
+  height: 100vh;
+  width: 33.3%;
+  background-color: #50e3c2;
+  float: left;
+}
+
+.col-3 {
+  height: 100vh;
+  width: 33.3%;
+  background-color: #b8e986;
+  float: left;
+}
+
+.place-holder {
+  background-color: red;
+  width: 33.3%;
+  height: 25vh;
+  position: absolute;
+  bottom: 0;
+  color: white;
+  font-size: 1.4em;
+  font-family: arial;
+  text-align: center;
+  line-height: 160px;
+}
