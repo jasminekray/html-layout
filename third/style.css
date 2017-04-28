@@ -6,29 +6,27 @@ body {
   margin: 0;
 }
 
+p {
+  padding: 1.5em 2em;
+}
+
 header {
   background-color: #d8d8d8;
   width: 100%;
   height: 20vh;
-  padding: 10px 20px;
+  padding: 20px 30px;
 }
 
 .status-bar {
   background-color: #4a90e2;
   width: 110px;
-  height: 80%;
+  height: 90%;  
 }
 
 .text {
   background-color: #fff;
   width: 100%;
-  height: 100%;
-  margin: auto;
-  text-align: center;
-  vertical-align: middle;
-  line-height: 1.2em;
   position: relative;
-  padding: 20px;
 }
 
 .row-container {
@@ -44,16 +42,20 @@ header {
 
 .blue1 {
   background-color: #4a90e2;
+  height: 25vh;
 }
 
 .blue2 {
   background-color: #50e3c2;
+  height: 25vh;
 }
 
 .green1 {
   background-color: #b8e986;
+  height: 25vh;
 }
 
 .green2 {
   background-color: #f8e71c;
+  height: 25vh;
 }
